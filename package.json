@@ -1,0 +1,42 @@
+{
+  "name": "resume.rbardini.com",
+  "version": "0.1.0",
+  "description": "Rafael Bardini's résumé",
+  "main": "resume.json",
+  "scripts": {
+    "build": "npm-run-all build:*",
+    "build:assets": "cp _redirects public",
+    "build:html": "resume export public/index.html",
+    "build:pdf": "resume export public/resume.pdf",
+    "cleanup": "rm -rf public",
+    "postbuild:html": "html-minifier public/index.html -o public/index.html --collapse-whitespace --minify-css",
+    "postcleanup": "mkdir public",
+    "prebuild": "npm run cleanup",
+    "start": "resume serve",
+    "test": "resume test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbardini/resume.rbardini.com.git"
+  },
+  "keywords": [
+    "cv",
+    "json",
+    "pdf",
+    "resume",
+    "vita"
+  ],
+  "author": "Rafael Bardini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbardini/resume.rbardini.com/issues"
+  },
+  "homepage": "https://resume.rbardini.com",
+  "dependencies": {
+    "resume-cli": "0.4.19"
+  },
+  "devDependencies": {
+    "html-minifier": "3.5.16",
+    "npm-run-all": "4.1.3"
+  }
+}

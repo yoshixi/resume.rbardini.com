@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://resume-rbardini.netlify.com/* https://resume.rbardini.com/:splat 301!

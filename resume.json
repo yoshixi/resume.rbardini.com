@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "Rafael Bardini",
+    "label": "Software Engineer",
+    "picture": "https://www.gravatar.com/avatar/305c0ea79fb9d9980912bb9092dcbbdc",
+    "email": "rafael@rbardini.com",
+    "phone": "+55 19 99201-1188",
+    "website": "https://rbardini.com",
+    "summary": "I’m a web and Android developer in Campinas, SP, Brazil, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open-source projects.",
+    "location": {
+      "address": "Rua Major Solon, 738 Ap. 13",
+      "postalCode": "13024-091",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "rbardini",
+        "url": "https://www.facebook.com/rbardini"
+      },
+      {
+        "network": "Twitter",
+        "username": "rbardini",
+        "url": "https://twitter.com/rbardini"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rbardini",
+        "url": "https://www.linkedin.com/in/rbardini"
+      },
+      {
+        "network": "GitHub",
+        "username": "rbardini",
+        "url": "https://github.com/rbardini"
+      }, {
+        "network": "npm",
+        "username": "rbardini",
+        "url": "https://www.npmjs.com/~rbardini"
+      }, {
+        "network": "Google Play Store",
+        "username": "Rafael Bardini",
+        "url": "https://play.google.com/store/apps/dev?id=5451010732878740854"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Daitan Group",
+      "position": "Software Engineer",
+      "website": "http://www.daitangroup.com",
+      "startDate": "2013-08-01",
+      "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
+      "highlights": [
+        "Currently working on an enterprise contact center solution for a US-based cloud communications company.",
+        "Worked on an automated regression testing tool for a UK-based telecom company.",
+        "Worked on the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
+      ]
+    },
+    {
+      "company": "Daitan Group",
+      "position": "Software Development Intern",
+      "website": "http://www.daitangroup.com",
+      "startDate": "2012-07-10",
+      "endDate": "2013-07-31",
+      "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
+      "highlights": [
+        "Worked on the browser-based, MMO version of a popular German-style strategy board game.",
+        "Worked on the browser-based version of a fast paced, multiplayer card game of gladiatorial combat."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de São Paulo",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008-03-14",
+      "endDate": "2013-08-23",
+      "gpa": "7.3/10",
+      "courses": [
+        "SCC0209 - Entrepreneurship in Informatics",
+        "SCC0263 - Web Programming Techniques",
+        "SCC0265 - Interactive Web Systems",
+        "SCC0266 - Design Patterns in Web Development",
+        "SCC0272 - Introduction to Bio-inspired Computing",
+        "SSC0713 - Evolutionary Systems Applied to Robotics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Daitan Recognition Award",
+      "date": "2015-11-29",
+      "awarder": "Daitan Group",
+      "summary": ""
+    },
+    {
+      "title": "Daitan Recognition Award",
+      "date": "2013-03-21",
+      "awarder": "Daitan Group",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "React",
+        "Redux",
+        "Node.js",
+        "Gulp",
+        "Webpack",
+        "Jest",
+        "HTML5",
+        "CSS3",
+        "Sass",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "Android SDK",
+        "Java",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "SVN"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }, {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Design",
+      "keywords": [
+        "Usability",
+        "Accessibility",
+        "Typography",
+        "UI/Visual design"
+      ]
+    },
+    {
+      "name": "Science & Art",
+      "keywords": [
+        "Astronomy",
+        "Biology",
+        "Physics",
+        "Philosophy",
+        "History"
+      ]
+    }
+  ]
+}
