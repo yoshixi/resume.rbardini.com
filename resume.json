@@ -45,13 +45,21 @@
   },
   "work": [
     {
+      "company": "Travix International",
+      "position": "Frontend Developer",
+      "website": "https://www.travix.com",
+      "startDate": "2017-12-07",
+      "summary": "Travix is a global online travel company, based in Amsterdam, with operations in 28 countries."
+    },
+    {
       "company": "Daitan Group",
       "position": "Software Engineer",
       "website": "http://www.daitangroup.com",
+      "endDate": "2017-11-01",
       "startDate": "2013-08-01",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
-        "Currently working on an enterprise contact center solution for a US-based cloud communications company.",
+        "Worked working on an enterprise contact center solution for a US-based cloud communications company.",
         "Worked on an automated regression testing tool for a UK-based telecom company.",
         "Worked on the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
       ]
