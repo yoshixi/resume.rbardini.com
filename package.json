@@ -5,7 +5,7 @@
   "main": "resume.json",
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:assets": "cp _redirects public",
+    "build:assets": "cp _redirects avatar.png public",
     "build:html": "resume export public/index.html",
     "build:pdf": "resume export public/resume.pdf",
     "cleanup": "rm -rf public",
