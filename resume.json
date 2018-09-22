@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json"
+  },
   "basics": {
     "name": "Rafael Bardini",
     "label": "Frontend and Android Developer",
