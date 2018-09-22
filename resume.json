@@ -86,12 +86,9 @@
       "endDate": "2013-08-23",
       "gpa": "7.3/10",
       "courses": [
-        "SCC0209 - Entrepreneurship in Informatics",
         "SCC0263 - Web Programming Techniques",
         "SCC0265 - Interactive Web Systems",
-        "SCC0266 - Design Patterns in Web Development",
-        "SCC0272 - Introduction to Bio-inspired Computing",
-        "SSC0713 - Evolutionary Systems Applied to Robotics"
+        "SCC0266 - Design Patterns in Web Development"
       ]
     }
   ],
