@@ -32,11 +32,13 @@
         "network": "GitHub",
         "username": "rbardini",
         "url": "https://github.com/rbardini"
-      }, {
+      },
+      {
         "network": "npm",
         "username": "rbardini",
         "url": "https://www.npmjs.com/~rbardini"
-      }, {
+      },
+      {
         "network": "Google Play Store",
         "username": "Rafael Bardini",
         "url": "https://play.google.com/store/apps/dev?id=5451010732878740854"
@@ -59,7 +61,7 @@
       "startDate": "2013-08-01",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
-        "Worked working on an enterprise contact center solution for a US-based cloud communications company.",
+        "Worked on an enterprise contact center solution for a US-based cloud communications company.",
         "Worked on an automated regression testing tool for a UK-based telecom company.",
         "Worked on the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
       ]
@@ -96,14 +98,12 @@
     {
       "title": "Daitan Recognition Award",
       "date": "2015-11-29",
-      "awarder": "Daitan Group",
-      "summary": ""
+      "awarder": "Daitan Group"
     },
     {
       "title": "Daitan Recognition Award",
       "date": "2013-03-21",
-      "awarder": "Daitan Group",
-      "summary": ""
+      "awarder": "Daitan Group"
     }
   ],
   "skills": [
@@ -146,7 +146,8 @@
     {
       "language": "Portuguese",
       "fluency": "Native speaker"
-    }, {
+    },
+    {
       "language": "English",
       "fluency": "Fluent speaker"
     }
