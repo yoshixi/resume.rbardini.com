@@ -101,6 +101,31 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Carteiro",
+      "description": "A beautifully designed, free Android package tracking app for the Brazilian postal service.",
+      "highlights": [
+        "Featured in the Google Play Store with 270,000+ installs and 4.6 ★ rating.",
+        "Embedded by LG into their smartphones following a government incentive program for national mobile applications."
+      ],
+      "keywords": [
+        "Android",
+        "Correios",
+        "Package",
+        "Tracking",
+        "Postal",
+        "Shipping"
+      ],
+      "startDate": "2012-04-14",
+      "url": "https://carteiro.app",
+      "roles": [
+        "Designer",
+        "Developer"
+      ],
+      "type": "application"
+    }
+  ],
   "awards": [
     {
       "title": "Daitan Recognition Award",
