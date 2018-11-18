@@ -9,7 +9,7 @@
     "email": "rafael@rbardini.com",
     "phone": "+31 6 87871624",
     "url": "https://rbardini.com",
-    "summary": "I’m a frontend and Android developer in Amsterdam, Netherlands, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open-source projects.",
+    "summary": "I’m a frontend and Android developer in Amsterdam, Netherlands, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open source projects.",
     "location": {
       "city": "Amsterdam",
       "countryCode": "NL",
@@ -67,15 +67,15 @@
     {
       "name": "Daitan Group",
       "location": "Campinas, Brazil",
-      "position": "Software Engineer",
+      "position": "Software Developer",
       "url": "http://www.daitangroup.com",
       "startDate": "2013-08-01",
       "endDate": "2017-11-01",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
-        "Worked on an enterprise contact center solution for a US-based cloud communications company.",
-        "Worked on an automated regression testing tool for a UK-based telecom company.",
-        "Worked on the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
+        "Maintained the enterprise contact center solution of a cloud communications company headquartered in the Silicon Valley.",
+        "Executed, debugged and fixed test cases and report defects of an automated regression testing tool from a UK-based telecom company.",
+        "Developed the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
       ]
     },
     {
@@ -87,8 +87,8 @@
       "endDate": "2013-07-31",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
-        "Worked on the browser-based, MMO version of a popular German-style strategy board game.",
-        "Worked on the browser-based version of a fast paced, multiplayer card game of gladiatorial combat."
+        "Developed the browser-based, MMO version of a popular German-style strategy board game.",
+        "Worked on the HTML5 version of a fast-paced, multiplayer card game of gladiatorial combat."
       ]
     }
   ],
