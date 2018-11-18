@@ -55,7 +55,14 @@
       "position": "Frontend Developer",
       "url": "https://www.travix.com",
       "startDate": "2017-12-07",
-      "summary": "Travix is a global online travel company, based in Amsterdam, with operations in 28 countries."
+      "summary": "Travix is a global online travel company operating in 39 countries from offices in the Netherlands, Germany, India, Singapore and the USA.",
+      "highlights": [
+        "Collaborated on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
+        "Became a lead maintainer of open source Travix projects like UI Kit (a component library) and Frint (a modular JavaScript framework).",
+        "Improved the frontend monitoring tool to collect performance and bundle size metrics for the flight results page using Google BigQuery.",
+        "Implemented a responsive seat map user interface for aircraft seat selection, increasing cross-sell revenue.",
+        "Replaced an existing end-to-end testing platform with a faster and more reliable solution based on WebdriverIO."
+      ]
     },
     {
       "name": "Daitan Group",
