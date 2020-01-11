@@ -4,13 +4,13 @@
   },
   "basics": {
     "name": "Rafael Bardini",
-    "label": "Frontend and Android Developer",
+    "label": "Senior Frontend Developer",
     "image": "https://resume.rbardini.com/avatar.png",
     "email": "rafael@rbardini.com",
     "url": "https://rbardini.com",
-    "summary": "I’m a frontend and Android developer in Amsterdam, Netherlands, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open source projects.",
+    "summary": "I’m a Senior Frontend Developer in Zaandam, Netherlands, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open source projects.",
     "location": {
-      "city": "Amsterdam",
+      "city": "Zaandam",
       "countryCode": "NL",
       "region": "North Holland"
     },
@@ -51,10 +51,26 @@
     {
       "name": "Travix International",
       "location": "Amsterdam, Netherlands",
+      "position": "Senior Frontend Developer",
+      "url": "https://www.travix.com",
+      "startDate": "2019-08-01",
+      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
+      "highlights": [
+        "Mentored individuals in and outside the company and technically led a product team through major development cycles.",
+        "Set up a new end-to-end testing solution with API mocking and snapshot testing based on TestCafe.",
+        "Improved the development workflow by automating release tasks and enforcing code quality on the CI level.",
+        "Wrote documentation and guidelines to formalize project conventions and help onboarding newcomers.",
+        "Contributed content to the company's official engineering blog."
+      ]
+    },
+    {
+      "name": "Travix International",
+      "location": "Amsterdam, Netherlands",
       "position": "Frontend Developer",
       "url": "https://www.travix.com",
       "startDate": "2017-12-07",
-      "summary": "Travix is a global online travel company operating in 39 countries from offices in the Netherlands, Germany, India, Singapore and the USA.",
+      "endDate": "2019-07-31",
+      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
         "Collaborated on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
         "Became a lead maintainer of open source Travix projects like UI Kit (a component library) and Frint (a modular JavaScript framework).",
