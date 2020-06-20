@@ -4,11 +4,11 @@
   },
   "basics": {
     "name": "Rafael Bardini",
-    "label": "Senior Frontend Developer",
+    "label": "Frontend Tech Lead",
     "image": "https://resume.rbardini.com/avatar.png",
     "email": "rafael@rbardini.com",
     "url": "https://rbardini.com",
-    "summary": "I’m a Senior Frontend Developer in Zaandam, Netherlands, with a B.S. in Computer Science from the Institute of Mathematical and Computer Sciences of the University of São Paulo (ICMC-USP). I’m the creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open source projects.",
+    "summary": "I'm a Frontend Tech Lead in the Amsterdam area, Netherlands, with a bachelor's degree in Computer Science from the University of São Paulo. Creator of Carteiro, a popular and highly-rated Android package tracking app in Brazil, as well as several open source projects.",
     "location": {
       "city": "Zaandam",
       "countryCode": "NL",
@@ -51,9 +51,24 @@
     {
       "name": "Travix International",
       "location": "Amsterdam, Netherlands",
+      "position": "Frontend Tech Lead",
+      "url": "https://www.travix.com",
+      "startDate": "2020-03-01",
+      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
+      "highlights": [
+        "Automated pure frontend performance metrics collection and reporting using Lighthouse CI.",
+        "Organized a frontend performance guild to promote monitoring and optimization initiatives.",
+        "Improved designer-developer collaboration by integrating design tools and defining a workflow.",
+        "Developed flexible, interactive layout components with both responsive and adaptive support."
+      ]
+    },
+    {
+      "name": "Travix International",
+      "location": "Amsterdam, Netherlands",
       "position": "Senior Frontend Developer",
       "url": "https://www.travix.com",
       "startDate": "2019-08-01",
+      "endDate": "2020-02-29",
       "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
         "Mentored individuals in and outside the company and technically led a product team through major development cycles.",
