@@ -49,7 +49,7 @@
   },
   "work": [
     {
-      "name": "Travix International",
+      "name": "Travix",
       "location": "Amsterdam, Netherlands",
       "position": "Frontend Tech Lead",
       "url": "https://www.travix.com",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Travix International",
+      "name": "Travix",
       "location": "Amsterdam, Netherlands",
       "position": "Senior Frontend Developer",
       "url": "https://www.travix.com",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "name": "Travix International",
+      "name": "Travix",
       "location": "Amsterdam, Netherlands",
       "position": "Frontend Developer",
       "url": "https://www.travix.com",
@@ -95,10 +95,10 @@
       ]
     },
     {
-      "name": "Daitan Group",
+      "name": "Daitan",
       "location": "Campinas, Brazil",
       "position": "Software Developer",
-      "url": "https://www.daitangroup.com",
+      "url": "https://www.daitan.com",
       "startDate": "2013-08-01",
       "endDate": "2017-11-01",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
@@ -109,10 +109,10 @@
       ]
     },
     {
-      "name": "Daitan Group",
+      "name": "Daitan",
       "location": "Campinas, Brazil",
       "position": "Software Development Intern",
-      "url": "https://www.daitangroup.com",
+      "url": "https://www.daitan.com",
       "startDate": "2012-07-10",
       "endDate": "2013-07-31",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
@@ -167,12 +167,12 @@
     {
       "title": "Daitan Recognition Award",
       "date": "2015-11-29",
-      "awarder": "Daitan Group"
+      "awarder": "Daitan"
     },
     {
       "title": "Daitan Recognition Award",
       "date": "2013-03-21",
-      "awarder": "Daitan Group"
+      "awarder": "Daitan"
     }
   ],
   "skills": [
