@@ -33,7 +33,7 @@
   },
   "homepage": "https://resume.rbardini.com",
   "dependencies": {
-    "@rbardini/resume-cli": "0.9.0"
+    "@rbardini/resume-cli": "0.10.2"
   },
   "devDependencies": {
     "html-minifier": "4.0.0",
