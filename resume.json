@@ -140,6 +140,21 @@
   ],
   "projects": [
     {
+      "name": "JSON Resume",
+      "description": "The open source initiative to create a JSON-based standard for resumes.",
+      "keywords": [
+        "JSON",
+        "Resume",
+        "CLI"
+      ],
+      "startDate": "2020-07-03",
+      "url": "https://jsonresume.org",
+      "roles": [
+        "Core Developer"
+      ],
+      "type": "application"
+    },
+    {
       "name": "Carteiro",
       "description": "A beautifully designed, free Android package tracking app for the Brazilian postal service.",
       "highlights": [
