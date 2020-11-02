@@ -245,15 +245,21 @@
         "Usability",
         "Accessibility",
         "Typography",
-        "UI/Visual design"
+        "User experience"
       ]
     },
     {
-      "name": "Science & Art",
+      "name": "Sciences",
       "keywords": [
         "Astronomy",
         "Biology",
         "Physics",
+        "Mathematics"
+      ]
+    },
+    {
+      "name": "Humanities",
+      "keywords": [
         "Philosophy",
         "History"
       ]
