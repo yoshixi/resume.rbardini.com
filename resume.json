@@ -69,7 +69,6 @@
       "url": "https://www.travix.com",
       "startDate": "2019-08-01",
       "endDate": "2020-02-29",
-      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
         "Mentored individuals in and outside the company and technically led a product team through major development cycles.",
         "Set up a new end-to-end testing solution with API mocking and snapshot testing based on TestCafe.",
@@ -85,7 +84,6 @@
       "url": "https://www.travix.com",
       "startDate": "2017-12-07",
       "endDate": "2019-07-31",
-      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
         "Collaborated on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
         "Became a lead maintainer of open source Travix projects like UI Kit (a component library) and Frint (a modular JavaScript framework).",
@@ -115,7 +113,6 @@
       "url": "https://www.daitan.com",
       "startDate": "2012-07-10",
       "endDate": "2013-07-31",
-      "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
         "Developed the browser-based, MMO version of a popular German-style strategy board game.",
         "Worked on the HTML5 version of a fast-paced, multiplayer card game of gladiatorial combat."
