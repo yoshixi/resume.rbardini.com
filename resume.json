@@ -139,16 +139,10 @@
     {
       "name": "JSON Resume",
       "description": "The open source initiative to create a JSON-based standard for resumes.",
-      "keywords": [
-        "JSON",
-        "Resume",
-        "CLI"
-      ],
+      "keywords": ["JSON", "Resume", "CLI"],
       "startDate": "2020-07-03",
       "url": "https://jsonresume.org",
-      "roles": [
-        "Core Developer"
-      ],
+      "roles": ["Core Developer"],
       "type": "application"
     },
     {
@@ -168,10 +162,7 @@
       ],
       "startDate": "2012-04-14",
       "url": "https://carteiro.app",
-      "roles": [
-        "Creator",
-        "Maintainer"
-      ],
+      "roles": ["Creator", "Maintainer"],
       "type": "application"
     }
   ],
@@ -211,20 +202,12 @@
     {
       "name": "Mobile Development",
       "level": "Master",
-      "keywords": [
-        "Android SDK",
-        "Java",
-        "Kotlin",
-        "Firebase"
-      ]
+      "keywords": ["Android SDK", "Java", "Kotlin", "Firebase"]
     },
     {
       "name": "Version Control",
       "level": "Master",
-      "keywords": [
-        "Git",
-        "SVN"
-      ]
+      "keywords": ["Git", "SVN"]
     }
   ],
   "languages": [
@@ -249,19 +232,11 @@
     },
     {
       "name": "Sciences",
-      "keywords": [
-        "Astronomy",
-        "Biology",
-        "Physics",
-        "Mathematics"
-      ]
+      "keywords": ["Astronomy", "Biology", "Physics", "Mathematics"]
     },
     {
       "name": "Humanities",
-      "keywords": [
-        "Philosophy",
-        "History"
-      ]
+      "keywords": ["Philosophy", "History"]
     }
   ]
 }
