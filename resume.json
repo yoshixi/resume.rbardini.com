@@ -193,11 +193,6 @@
       "name": "Mobile Development",
       "level": "Master",
       "keywords": ["Android SDK", "Java", "Kotlin", "Firebase"]
-    },
-    {
-      "name": "Version Control",
-      "level": "Master",
-      "keywords": ["Git", "SVN"]
     }
   ],
   "languages": [
