@@ -170,8 +170,7 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Web development",
       "keywords": [
         "JavaScript",
         "TypeScript",
@@ -190,8 +189,7 @@
       ]
     },
     {
-      "name": "Mobile Development",
-      "level": "Master",
+      "name": "Mobile development",
       "keywords": ["Android SDK", "Java", "Kotlin", "Firebase"]
     }
   ],
