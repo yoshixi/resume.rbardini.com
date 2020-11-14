@@ -214,12 +214,8 @@
       ]
     },
     {
-      "name": "Sciences",
-      "keywords": ["Astronomy", "Biology", "Physics", "Mathematics"]
-    },
-    {
-      "name": "Humanities",
-      "keywords": ["Philosophy", "History"]
+      "name": "Academic disciplines",
+      "keywords": ["Astronomy", "Biology", "Physics", "Mathematics", "History", "Philosophy"]
     }
   ]
 }
