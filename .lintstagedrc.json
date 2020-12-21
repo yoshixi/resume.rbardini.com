@@ -1,3 +1,4 @@
 {
+  "resume.json": "json --in-place -e 'this.meta.lastModified=new Date().toISOString()' -f",
   "*.{json,md}": "prettier --write"
 }

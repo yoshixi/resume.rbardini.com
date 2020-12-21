@@ -1,6 +1,7 @@
 {
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json"
+    "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
+    "lastModified": "2020-12-21T00:29:46.329Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -215,7 +216,14 @@
     },
     {
       "name": "Academic disciplines",
-      "keywords": ["Astronomy", "Biology", "Physics", "Mathematics", "History", "Philosophy"]
+      "keywords": [
+        "Astronomy",
+        "Biology",
+        "Physics",
+        "Mathematics",
+        "History",
+        "Philosophy"
+      ]
     }
   ]
 }
