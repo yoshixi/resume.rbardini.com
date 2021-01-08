@@ -14,7 +14,7 @@
     "postcleanup": "mkdir public",
     "prebuild": "npm run cleanup",
     "start": "resume serve",
-    "test": "resume test"
+    "test": "resume validate"
   },
   "repository": {
     "type": "git",
@@ -34,8 +34,7 @@
   },
   "homepage": "https://resume.rbardini.com",
   "dependencies": {
-    "jsonresume-theme-even": "0.5.2",
-    "resume-cli": "2.0.0"
+    "resume-cli": "3.0.4"
   },
   "devDependencies": {
     "html-minifier": "4.0.0",
