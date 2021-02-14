@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-02-14T15:13:35.527Z"
+    "lastModified": "2021-02-14T15:23:18.843Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -127,15 +127,6 @@
     }
   ],
   "projects": [
-    {
-      "name": "JSON Resume",
-      "description": "The open source initiative to create a JSON-based standard for resumes.",
-      "keywords": ["JSON", "Resume", "CLI"],
-      "startDate": "2020-07-03",
-      "url": "https://jsonresume.org",
-      "roles": ["Core Developer"],
-      "type": "application"
-    },
     {
       "name": "Carteiro",
       "description": "A beautifully designed, free Android package tracking app for the Brazilian postal service.",
