@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-02-14T15:23:53.532Z"
+    "lastModified": "2021-02-20T21:32:46.254Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -16,16 +16,6 @@
       "region": "North Holland"
     },
     "profiles": [
-      {
-        "network": "Facebook",
-        "username": "rbardini",
-        "url": "https://www.facebook.com/rbardini"
-      },
-      {
-        "network": "Twitter",
-        "username": "rbardini",
-        "url": "https://twitter.com/rbardini"
-      },
       {
         "network": "LinkedIn",
         "username": "rbardini",
