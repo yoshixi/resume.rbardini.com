@@ -4,13 +4,12 @@
 [![Dependencies status](https://img.shields.io/david/rbardini/resume.rbardini.com.svg)](https://david-dm.org/rbardini/resume.rbardini.com)
 [![devDependencies status](https://img.shields.io/david/dev/rbardini/resume.rbardini.com.svg)](https://david-dm.org/rbardini/resume.rbardini.com?type=dev)
 
-Rafael Bardini's résumé, powered by [JSON Resume](https://jsonresume.org/).
+Rafael Bardini's resume, powered by [Resumed](https://github.com/rbardini/resumed).
 
 ## Usage
 
-- `npm test` to validate the schema
-- `npm run build` to export to HTML and PDF
-- `npm start` to build, serve and watch for changes
+- `npm test` to validate resume against the [JSON Resume schema](https://jsonresume.org/schema/)
+- `npm run build` to export resume and copy public assets
 
 ## License
 

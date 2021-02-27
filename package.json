@@ -1,7 +1,7 @@
 {
   "name": "resume.rbardini.com",
   "version": "0.1.0",
-  "description": "Rafael Bardini's résumé",
+  "description": "Rafael Bardini's resume",
   "main": "resume.json",
   "scripts": {
     "build": "npm-run-all build:*",
