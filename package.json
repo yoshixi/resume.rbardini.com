@@ -5,7 +5,7 @@
   "main": "resume.json",
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:assets": "cp _redirects avatar.png public",
+    "build:assets": "cp _redirects avatar.png favicon.ico public",
     "build:html": "resumed --output public/index.html",
     "cleanup": "rm -rf public",
     "format": "prettier --ignore-path .gitignore --write .",
