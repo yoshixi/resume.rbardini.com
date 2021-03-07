@@ -35,7 +35,7 @@
   },
   "homepage": "https://resume.rbardini.com",
   "dependencies": {
-    "jsonresume-theme-even": "0.8.0",
+    "jsonresume-theme-even": "0.10.0",
     "resumed": "1.0.0"
   },
   "devDependencies": {
