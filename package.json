@@ -11,10 +11,8 @@
     "format": "prettier --ignore-path .gitignore --write .",
     "postbuild:html": "html-minifier public/index.html -o public/index.html --collapse-whitespace --minify-css",
     "postcleanup": "mkdir public",
-    "postinstall": "husky install",
-    "postpublish": "pinst --enable",
     "prebuild": "npm run cleanup",
-    "prepublishOnly": "pinst --disable",
+    "prepare": "husky install",
     "test": "resumed validate"
   },
   "repository": {
@@ -35,16 +33,15 @@
   },
   "homepage": "https://resume.rbardini.com",
   "dependencies": {
-    "jsonresume-theme-even": "0.10.0",
+    "jsonresume-theme-even": "0.10.1",
     "resumed": "1.0.0"
   },
   "devDependencies": {
     "html-minifier": "4.0.0",
-    "husky": "5.1.3",
-    "json": "10.0.0",
-    "lint-staged": "10.5.4",
+    "husky": "6.0.0",
+    "json": "11.0.0",
+    "lint-staged": "11.0.0",
     "npm-run-all": "4.1.5",
-    "pinst": "2.1.6",
-    "prettier": "2.2.1"
+    "prettier": "2.3.0"
   }
 }
