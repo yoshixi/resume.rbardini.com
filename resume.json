@@ -1,15 +1,15 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-05-18T21:01:18.212Z"
+    "lastModified": "2021-05-18T21:02:35.502Z"
   },
   "basics": {
     "name": "Rafael Bardini",
-    "label": "Frontend Tech Lead",
+    "label": "Senior Frontend Developer",
     "image": "https://resume.rbardini.com/avatar.png",
     "email": "rafael@rbardini.com",
     "url": "https://rbardini.com",
-    "summary": "I'm a Frontend Tech Lead in the Amsterdam area, with a bachelor's degree in Computer Science from the [University of São Paulo](https://usp.br). Creator of [Carteiro](https://carteiro.app), a popular and highly-rated Android package tracking app in Brazil, as well as several [open source projects](https://github.com/rbardini).",
+    "summary": "I'm a frontend developer in the Amsterdam area, with a bachelor's degree in Computer Science from the [University of São Paulo](https://usp.br). Creator of [Carteiro](https://carteiro.app), a popular and highly-rated Android package tracking app in Brazil, as well as several [open source projects](https://github.com/rbardini).",
     "location": {
       "city": "Zaandam",
       "countryCode": "NL",
