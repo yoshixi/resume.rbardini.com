@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-02-20T21:45:34.844Z"
+    "lastModified": "2021-05-18T21:01:18.212Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -35,11 +35,20 @@
   },
   "work": [
     {
+      "name": "DEGIRO",
+      "location": "Amsterdam, Netherlands",
+      "position": "Senior Frontend Developer",
+      "url": "https://www.degiro.com",
+      "startDate": "2021-05-15",
+      "summary": "DEGIRO is an online broker that serves both individual and professional investors. It offers market access through a fast, high-performance online platform, and is currently operating in 18 countries."
+    },
+    {
       "name": "Travix",
       "location": "Amsterdam, Netherlands",
       "position": "Frontend Tech Lead",
       "url": "https://www.travix.com",
       "startDate": "2020-03-01",
+      "endDate": "2021-04-30",
       "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
         "Automated pure frontend performance metrics collection and reporting using Lighthouse CI.",
