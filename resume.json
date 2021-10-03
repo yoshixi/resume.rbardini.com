@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-05-18T21:02:35.502Z"
+    "lastModified": "2021-10-03T12:36:13.537Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -40,7 +40,13 @@
       "position": "Senior Frontend Developer",
       "url": "https://www.degiro.com",
       "startDate": "2021-05-15",
-      "summary": "DEGIRO is an online broker that serves both individual and professional investors. It offers market access through a fast, high-performance online platform, and is currently operating in 18 countries."
+      "summary": "DEGIRO is an online broker that serves both individual and professional investors. It offers market access through a fast, high-performance online platform, and is currently operating in 18 countries.",
+      "highlights": [
+        "Developed and maintained the trading client platform, with focus on navigation improvements.",
+        "Created an internal browser devtools extension to ease testing and debugging.",
+        "Managed product builds and deploys, coordinating cross-team version releases.",
+        "Streamlined developer collaboration by writing and enforcing code review guidelines."
+      ]
     },
     {
       "name": "Travix",
