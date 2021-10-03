@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-03T12:37:21.063Z"
+    "lastModified": "2021-10-03T13:04:46.581Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -45,7 +45,7 @@
         "Developed and maintained the trading client platform, with focus on navigation improvements.",
         "Created an internal browser devtools extension to ease testing and debugging.",
         "Managed product builds and deploys, coordinating cross-team version releases.",
-        "Streamlined developer collaboration by writing and enforcing code review guidelines."
+        "Streamlined developer collaboration with code review guidelines and regular technical discussions."
       ]
     },
     {
