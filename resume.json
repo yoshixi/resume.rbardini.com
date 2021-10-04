@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-04T20:24:23.645Z"
+    "lastModified": "2021-10-04T20:24:38.347Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -153,8 +153,8 @@
       "name": "Carteiro",
       "description": "A beautifully designed, free Android package tracking app for the Brazilian postal service.",
       "highlights": [
-        "Featured in the Google Play Store with 600,000+ installs and 4.5 ★ rating.",
-        "Embedded into LG smartphones following a government incentive program for national mobile applications."
+        "[Available on the Google Play store](https://play.google.com/store/apps/details?id=com.rbardini.carteiro) with 600,000+ installs and 4.5 ★ rating.",
+        "[Embedded into LG smartphones](https://www.jusbrasil.com.br/diarios/79871944/dou-secao-1-11-11-2014-pg-51) following a government incentive program for national mobile applications."
       ],
       "keywords": [
         "Android",
