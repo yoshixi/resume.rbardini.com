@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-04T20:24:38.347Z"
+    "lastModified": "2021-10-04T20:25:07.486Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -191,6 +191,7 @@
         "React",
         "Redux",
         "styled-components",
+        "Next.js",
         "Babel",
         "Webpack",
         "Jest",
