@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-07T22:17:11.774Z"
+    "lastModified": "2021-10-07T22:18:30.521Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -124,16 +124,11 @@
     {
       "institution": "Universidade de São Paulo",
       "area": "Computer Science",
-      "studyType": "Bachelor's degree with emphasis in web development.",
+      "studyType": "Bachelor's degree with emphasis in Web Development.",
       "url": "https://usp.br",
       "startDate": "2008-03-14",
       "endDate": "2013-08-23",
-      "gpa": "7.3/10",
-      "courses": [
-        "SCC0263 - Web Programming Techniques",
-        "SCC0265 - Interactive Web Systems",
-        "SCC0266 - Design Patterns in Web Development"
-      ]
+      "gpa": "7.3/10"
     }
   ],
   "projects": [
