@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-07T22:18:30.521Z"
+    "lastModified": "2021-10-07T22:19:34.633Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -218,7 +218,7 @@
     },
     {
       "name": "Mobile development",
-      "keywords": ["Android SDK", "Java", "Kotlin", "Firebase"]
+      "keywords": ["Android SDK", "Java", "Kotlin", "Firebase", "Supabase"]
     }
   ],
   "languages": [
