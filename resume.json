@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-07T22:19:34.633Z"
+    "lastModified": "2021-10-08T10:48:29.503Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -42,10 +42,10 @@
       "startDate": "2021-05-15",
       "summary": "DEGIRO is an online broker that serves both individual and professional investors. It offers market access through a fast, high-performance online platform, and is currently operating in 18 countries.",
       "highlights": [
-        "Developed and maintained the trading client platform, with focus on navigation improvements.",
-        "Created an internal browser devtools extension to ease testing and debugging.",
-        "Managed product builds and deploys, coordinating cross-team version releases.",
-        "Streamlined developer collaboration with code review guidelines and regular technical discussions."
+        "Develop and maintain the trading client platform, with focus on navigation improvements.",
+        "Create an internal browser devtools extension to ease testing and debugging.",
+        "Manage product builds and deploys, coordinating cross-team version releases.",
+        "Streamline developer collaboration with code review guidelines and regular technical discussions."
       ]
     },
     {
@@ -57,10 +57,10 @@
       "endDate": "2021-04-30",
       "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
       "highlights": [
-        "Automated pure frontend performance metrics collection and reporting using Lighthouse CI.",
-        "Organized a frontend performance guild to promote monitoring and optimization initiatives.",
-        "Improved designer-developer collaboration by integrating design tools and defining a workflow.",
-        "Developed flexible, interactive layout components with both responsive and adaptive support."
+        "Automate pure frontend performance metrics collection and reporting using Lighthouse CI.",
+        "Organize a frontend performance guild to promote monitoring and optimization initiatives.",
+        "Improve designer-developer collaboration by integrating design tools and defining a workflow.",
+        "Develop flexible, interactive layout components with both responsive and adaptive support."
       ]
     },
     {
@@ -71,11 +71,11 @@
       "startDate": "2019-08-01",
       "endDate": "2020-02-29",
       "highlights": [
-        "Mentored individuals in and outside the company and technically led a product team through major development cycles.",
+        "Mentor individuals in and outside the company and technically led a product team through major development cycles.",
         "Set up a new end-to-end testing solution with API mocking and snapshot testing based on TestCafe.",
-        "Improved the development workflow by automating release tasks and enforcing code quality on the CI level.",
-        "Wrote documentation and guidelines to formalize project conventions and help onboarding newcomers.",
-        "Contributed content to the company's official engineering blog."
+        "Improve the development workflow by automating release tasks and enforcing code quality on the CI level.",
+        "Write documentation and guidelines to formalize project conventions and help onboarding newcomers.",
+        "Contribute content to the company's official engineering blog."
       ]
     },
     {
@@ -86,11 +86,11 @@
       "startDate": "2017-12-07",
       "endDate": "2019-07-31",
       "highlights": [
-        "Collaborated on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
-        "Became a lead maintainer of open source Travix projects like UI Kit (a component library) and Frint (a modular JavaScript framework).",
-        "Improved the frontend monitoring tool to collect performance and bundle size metrics for the flight results page using Google BigQuery.",
-        "Implemented a responsive seat map user interface for aircraft seat selection, increasing cross-sell revenue.",
-        "Replaced an existing end-to-end testing platform with a faster and more reliable solution based on WebdriverIO."
+        "Collaborate on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
+        "Become a core maintainer of open source Travix projects like UI Kit component library and FrintJS modular framework.",
+        "Improve the frontend monitoring tool to collect performance and bundle size metrics for the flight results page using Google BigQuery.",
+        "Implement a responsive seat map user interface for aircraft seat selection, increasing cross-sell revenue.",
+        "Replace an existing end-to-end testing platform with a faster and more reliable solution based on WebdriverIO."
       ]
     },
     {
@@ -102,9 +102,9 @@
       "endDate": "2017-11-01",
       "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
       "highlights": [
-        "Maintained the enterprise contact center solution of a cloud communications company headquartered in the Silicon Valley.",
-        "Executed, debugged and fixed test cases and report defects of an automated regression testing tool from a UK-based telecom company.",
-        "Developed the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
+        "Maintain the enterprise contact center solution of a cloud communications company headquartered in the Silicon Valley.",
+        "Execute, debug and fix test cases and report defects of an automated regression testing tool from a UK-based telecom company.",
+        "Develop the web and Android versions of a user portal for students, parents, teachers and schools for a Brazilian education network."
       ]
     },
     {
@@ -115,8 +115,8 @@
       "startDate": "2012-07-10",
       "endDate": "2013-07-31",
       "highlights": [
-        "Developed the browser-based, MMO version of a popular German-style strategy board game.",
-        "Worked on the HTML5 version of a fast-paced, multiplayer card game of gladiatorial combat."
+        "Develop the browser-based, MMO version of a popular German-style strategy board game.",
+        "Work on the HTML5 version of a fast-paced, multiplayer card game of gladiatorial combat."
       ]
     }
   ],
