@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-08T10:48:29.503Z"
+    "lastModified": "2021-10-08T10:50:13.439Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Storybook Playroom Addon",
-      "description": "Design with [Playroom](https://github.com/seek-oss/playroom) inside [Storybook](https://storybook.js.org/), using each story source as a starting point.",
+      "description": "Design with Playroom inside Storybook, using each story source as a starting point.",
       "highlights": [
         "[Featured by LogRocket](https://blog.logrocket.com/top-storybook-addons-to-take-your-code-to-the-next-level/) as \"probably one of the greatest community Storybook addons.\""
       ],
@@ -166,7 +166,7 @@
       "name": "Carteiro",
       "description": "A beautifully designed, free Android package tracking app for the Brazilian postal service.",
       "highlights": [
-        "[Available on the Google Play store](https://play.google.com/store/apps/details?id=com.rbardini.carteiro) with 600,000+ installs and 4.5 ★ rating.",
+        "[Available on Google Play](https://play.google.com/store/apps/details?id=com.rbardini.carteiro) with 600,000+ installs and 4.5 ★ rating.",
         "[Embedded into LG smartphones](https://www.jusbrasil.com.br/diarios/79871944/dou-secao-1-11-11-2014-pg-51) following a government incentive program for national mobile applications."
       ],
       "keywords": [
