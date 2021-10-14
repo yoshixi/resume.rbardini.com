@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-08T10:50:13.439Z"
+    "lastModified": "2021-10-14T22:15:18.814Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -9,7 +9,7 @@
     "image": "https://resume.rbardini.com/avatar.png",
     "email": "rafael@rbardini.com",
     "url": "https://rbardini.com",
-    "summary": "I'm a frontend developer in the Amsterdam area, with a bachelor's degree in Computer Science from the [University of São Paulo](https://usp.br). Creator of [Carteiro](https://carteiro.app), a popular and highly-rated Android package tracking app in Brazil, as well as several [open source projects](https://github.com/rbardini).",
+    "summary": "I'm a frontend developer in the Amsterdam Area, with a bachelor's degree in Computer Science from the [University of São Paulo](https://usp.br). Creator of [Carteiro](https://carteiro.app), a popular and highly-rated Android package tracking app in Brazil, as well as several [open source projects](https://github.com/rbardini).",
     "location": {
       "city": "Amsterdam Area",
       "countryCode": "NL",
@@ -135,7 +135,9 @@
     {
       "name": "Countryquest",
       "description": "An interactive scratch off map. Keep track of which places you have been, how much of the world you have conquered, and where to go next.",
-      "startDate": "2021-05-04",
+      "highlights": [
+        "[Showcased in Made with Supabase](https://www.madewithsupabase.com/p/countryquest) project collection."
+      ],
       "keywords": [
         "Scratch",
         "Map",
@@ -146,6 +148,7 @@
         "Visits",
         "Achievements"
       ],
+      "startDate": "2021-05-04",
       "url": "https://country.quest",
       "roles": ["Creator", "Maintainer"],
       "type": "application"
