@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/master/resume.json",
-    "lastModified": "2021-10-14T22:15:18.814Z"
+    "lastModified": "2021-11-11T09:22:29.157Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -40,7 +40,7 @@
       "position": "Senior Frontend Developer",
       "url": "https://www.degiro.com",
       "startDate": "2021-05-15",
-      "summary": "DEGIRO is an online broker that serves both individual and professional investors. It offers market access through a fast, high-performance online platform, and is currently operating in 18 countries.",
+      "description": "Online trading platform",
       "highlights": [
         "Develop and maintain the trading client platform, with focus on navigation improvements.",
         "Create an internal browser devtools extension to ease testing and debugging.",
@@ -55,7 +55,7 @@
       "url": "https://www.travix.com",
       "startDate": "2020-03-01",
       "endDate": "2021-04-30",
-      "summary": "Travix is a global online travel company operating in 39 countries, helping thousands of people to find the best flights on a daily basis. With 5 brands and an extensive portfolio of 43 websites, it is a market leader in several countries and growing rapidly on all continents.",
+      "description": "Online travel agency",
       "highlights": [
         "Automate pure frontend performance metrics collection and reporting using Lighthouse CI.",
         "Organize a frontend performance guild to promote monitoring and optimization initiatives.",
@@ -70,6 +70,7 @@
       "url": "https://www.travix.com",
       "startDate": "2019-08-01",
       "endDate": "2020-02-29",
+      "description": "Online travel agency",
       "highlights": [
         "Mentor individuals in and outside the company and technically led a product team through major development cycles.",
         "Set up a new end-to-end testing solution with API mocking and snapshot testing based on TestCafe.",
@@ -85,6 +86,7 @@
       "url": "https://www.travix.com",
       "startDate": "2017-12-07",
       "endDate": "2019-07-31",
+      "description": "Online travel agency",
       "highlights": [
         "Collaborate on the architecture and development of a new, dynamic frontend platform and component library using React and TypeScript.",
         "Become a core maintainer of open source Travix projects like UI Kit component library and FrintJS modular framework.",
@@ -100,7 +102,7 @@
       "url": "https://www.daitan.com",
       "startDate": "2013-08-01",
       "endDate": "2017-11-01",
-      "summary": "Daitan provides full lifecycle software product development, software product maintenance and software quality assurance services to leading global technology companies.",
+      "description": "IT outsourcing services",
       "highlights": [
         "Maintain the enterprise contact center solution of a cloud communications company headquartered in the Silicon Valley.",
         "Execute, debug and fix test cases and report defects of an automated regression testing tool from a UK-based telecom company.",
@@ -114,6 +116,7 @@
       "url": "https://www.daitan.com",
       "startDate": "2012-07-10",
       "endDate": "2013-07-31",
+      "description": "IT outsourcing services",
       "highlights": [
         "Develop the browser-based, MMO version of a popular German-style strategy board game.",
         "Work on the HTML5 version of a fast-paced, multiplayer card game of gladiatorial combat."
