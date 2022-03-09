@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/main/resume.json",
-    "lastModified": "2022-03-08T13:11:02.476Z"
+    "lastModified": "2022-03-09T12:43:30.450Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -254,23 +254,15 @@
   ],
   "interests": [
     {
-      "name": "Design",
+      "name": "User experience",
       "keywords": [
         "Usability",
         "Accessibility",
+        "Inclusion",
+        "Semantics",
         "Typography",
-        "User experience"
-      ]
-    },
-    {
-      "name": "Academic disciplines",
-      "keywords": [
-        "Astronomy",
-        "Biology",
-        "Physics",
-        "Mathematics",
-        "History",
-        "Philosophy"
+        "Performance",
+        "Decentralization"
       ]
     }
   ]
