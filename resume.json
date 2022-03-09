@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/main/resume.json",
-    "lastModified": "2022-03-09T12:43:30.450Z"
+    "lastModified": "2022-03-09T12:45:25.929Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -222,19 +222,23 @@
     {
       "name": "Web development",
       "keywords": [
+        "HTML",
+        "CSS",
         "JavaScript",
         "TypeScript",
         "React",
         "Redux",
         "styled-components",
         "Next.js",
+        "Astro",
         "Babel",
         "Webpack",
+        "ESLint",
         "Jest",
+        "Storybook",
         "Node.js",
         "npm",
-        "HTML",
-        "CSS"
+        "Git"
       ]
     },
     {
