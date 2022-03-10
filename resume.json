@@ -1,7 +1,7 @@
 {
   "meta": {
     "canonical": "https://raw.githubusercontent.com/rbardini/resume.rbardini.com/main/resume.json",
-    "lastModified": "2022-03-09T12:45:25.929Z"
+    "lastModified": "2022-03-10T15:23:56.309Z"
   },
   "basics": {
     "name": "Rafael Bardini",
@@ -99,7 +99,7 @@
     {
       "name": "Daitan",
       "location": "Campinas, Brazil",
-      "position": "Software Developer",
+      "position": "Frontend Developer",
       "url": "https://www.daitan.com",
       "startDate": "2013-08-01",
       "endDate": "2017-11-01",
@@ -113,7 +113,7 @@
     {
       "name": "Daitan",
       "location": "Campinas, Brazil",
-      "position": "Software Development Intern",
+      "position": "Frontend Developer Intern",
       "url": "https://www.daitan.com",
       "startDate": "2012-07-10",
       "endDate": "2013-07-31",
